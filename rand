@@ -1,0 +1,14 @@
+<div class="main">
+    <div class="child">
+        <img class="img" src="pic.jpg">
+        <div class="txt">
+            <p>Hello There, I'am</p>
+            <h1>Abhay Panchal</h1>
+            <h2>I am Front-end Developer and</h2>
+            <h2>Dance Choreographer</h2>
+            <br>
+            <button onclick="nextPage()" class="btn btn1">CV</button>
+            <button onclick="nextPagee()" class="btn">Videos</button>
+        </div>
+    </div>
+</div>
